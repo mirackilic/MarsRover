@@ -1,0 +1,12 @@
+/Users/mirackilic/MarsRover/MarsRover.DOMAIN/obj/Debug/net6.0/MarsRover.DOMAIN.csproj.AssemblyReference.cache
+/Users/mirackilic/MarsRover/MarsRover.DOMAIN/obj/Debug/net6.0/MarsRover.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mirackilic/MarsRover/MarsRover.DOMAIN/obj/Debug/net6.0/MarsRover.DOMAIN.AssemblyInfoInputs.cache
+/Users/mirackilic/MarsRover/MarsRover.DOMAIN/obj/Debug/net6.0/MarsRover.DOMAIN.AssemblyInfo.cs
+/Users/mirackilic/MarsRover/MarsRover.DOMAIN/obj/Debug/net6.0/MarsRover.DOMAIN.csproj.CoreCompileInputs.cache
+/Users/mirackilic/MarsRover/MarsRover.DOMAIN/bin/Debug/net6.0/MarsRover.DOMAIN.deps.json
+/Users/mirackilic/MarsRover/MarsRover.DOMAIN/bin/Debug/net6.0/MarsRover.DOMAIN.dll
+/Users/mirackilic/MarsRover/MarsRover.DOMAIN/bin/Debug/net6.0/ref/MarsRover.DOMAIN.dll
+/Users/mirackilic/MarsRover/MarsRover.DOMAIN/bin/Debug/net6.0/MarsRover.DOMAIN.pdb
+/Users/mirackilic/MarsRover/MarsRover.DOMAIN/obj/Debug/net6.0/MarsRover.DOMAIN.dll
+/Users/mirackilic/MarsRover/MarsRover.DOMAIN/obj/Debug/net6.0/ref/MarsRover.DOMAIN.dll
+/Users/mirackilic/MarsRover/MarsRover.DOMAIN/obj/Debug/net6.0/MarsRover.DOMAIN.pdb
